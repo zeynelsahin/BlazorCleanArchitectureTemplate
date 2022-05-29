@@ -1,0 +1,12 @@
+C:\Users\zynls\Masaüstü\Kurs\WarehouseManger\src\Shared\bin\Debug\net5.0\WarehouseManger.Shared.deps.json
+C:\Users\zynls\Masaüstü\Kurs\WarehouseManger\src\Shared\bin\Debug\net5.0\WarehouseManger.Shared.dll
+C:\Users\zynls\Masaüstü\Kurs\WarehouseManger\src\Shared\bin\Debug\net5.0\WarehouseManger.Shared.pdb
+C:\Users\zynls\Masaüstü\Kurs\WarehouseManger\src\Shared\obj\Debug\net5.0\Shared.csproj.AssemblyReference.cache
+C:\Users\zynls\Masaüstü\Kurs\WarehouseManger\src\Shared\obj\Debug\net5.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zynls\Masaüstü\Kurs\WarehouseManger\src\Shared\obj\Debug\net5.0\Shared.AssemblyInfoInputs.cache
+C:\Users\zynls\Masaüstü\Kurs\WarehouseManger\src\Shared\obj\Debug\net5.0\Shared.AssemblyInfo.cs
+C:\Users\zynls\Masaüstü\Kurs\WarehouseManger\src\Shared\obj\Debug\net5.0\Shared.csproj.CoreCompileInputs.cache
+C:\Users\zynls\Masaüstü\Kurs\WarehouseManger\src\Shared\obj\Debug\net5.0\WarehouseManger.Shared.dll
+C:\Users\zynls\Masaüstü\Kurs\WarehouseManger\src\Shared\obj\Debug\net5.0\refint\WarehouseManger.Shared.dll
+C:\Users\zynls\Masaüstü\Kurs\WarehouseManger\src\Shared\obj\Debug\net5.0\WarehouseManger.Shared.pdb
+C:\Users\zynls\Masaüstü\Kurs\WarehouseManger\src\Shared\obj\Debug\net5.0\ref\WarehouseManger.Shared.dll
